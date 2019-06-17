@@ -1,0 +1,50 @@
+{
+    box-sizing: border-box;
+}
+.container{
+    width:1170px;
+}
+.logo{
+    max-width: 100px;
+    margin-top: 20px;
+}
+.header-top{
+    background: #272f54;
+        text-align: center;
+        height: 100px;
+}
+
+.banner img{
+    height: 265px;
+}
+.new{
+    border: 1px solid #ccc;
+    padding: 15px 35px 0px 35px;
+    height: 100%;
+}
+.row{  
+    margin-bottom: 20px; 
+    
+}
+.contents{
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+.content{
+    padding: 15px 0;
+}
+footer{
+    background: #272f54;
+    text-align: center;
+    padding : 15px;
+    height: 50px;
+}
+.coppyright{
+    color: #f58220;
+}
+
+
+.card{
+
+    border: 0px;
+}
